@@ -21,10 +21,10 @@ Part 2: Recognizing Verbs
 7. misit- Perfect,Indicative,Activ,3rd,Singular (miserint-they had thrown) ❌
 
 Patt 3: Latin Composition
-1. interficitur ❌
-2. interfectus est ❌
-3. interfecit ❌
+1. interficiuntur
+2. interficiebantur
+3. interfecti sunt
 4. interfecisset 
-5. videt ❌
+5. vidit
 6. duxit 
-7. petivit ❌
+7. petebat
