@@ -9,23 +9,42 @@ Your composition should use all the vocabulary items listed below at least once.
 Your first sentence should use a temporal clause to express that when Hercules came to Oechalia, he asked to marry Iole.
 
   - Cum Hercules veniat❌ Oechaliam, rogaverit❌ in coniungre❌ Iolen
+  - REVISION- Hercules cum Oechaliam venisset, Iolen rogabat uxorem.
+ 
 
 Your second sentence should state that when her father Eurytus was unwilling, Hercules captured Oechalia.
 
   - Cum pater eius Eurytus noluerit❌, Hercules capiebat🤔 Oechaliam
+  - REVISION- Cum sua pater Eurytus nolebat, Hercules Oechaliam cepit.
+  - nolo in the imperfect indicative 
 
 Your third sentence should express that Hercules said that he would kill her parents, and should include an indirect statement.
 
   - Herculem dicendum❌ eum❌ Iolen interfectum esse ❓ **her parents?**
+  - REVISION- Hercules dixit se parentes interfecturum esse.
+  - future infinitive
+  - subjuct of future infinitive is hercules
+  - refelexive pronoun
+  - eus parentes 
+  - dixit eam interfecturum esse
+  - dixit parentes se interfecturum esse
 
 Your fourth sentence should say that Iole endured that her parents were killed.
 
   - Iolen patiendum❌ parentibus interfecti sunt❌
-
+  - REVISION- patiebatur suos parentes interfectos esse.
+  - Iole (perfect or imperfect) 
+  - Perfect infinitive for parents
+  - interfectum esse 
+  - suus, sua, suum
+ 
 
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
   - Cum interfecisset omnes, ad Deianiram Iolen miserit❌ 
+  - REVISION- Cum interfecisset omnes, Iolen ad deianiram misit.
+  - Subjunctive
+  - he sent is in the past (secondary sequence)
 
 
 Notes
