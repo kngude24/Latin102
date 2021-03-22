@@ -18,7 +18,7 @@ third plural present subjunctive active- dent
 third plural imperfect indicative active- dabant, they were giving
 present infinitive active- dare
 third plural imperfect subjunctive active- darent
-third plural perfect indicative active- dederint, they gave❌
+third plural perfect indicative active- Revision--Dederunt, they gave❌
 perfect active infinitive- dedisse
 third plural pluperfect subjunctive active- dedissent
 
@@ -70,13 +70,13 @@ English relative clauses
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   - Eurytion (Antecedent)
   - Eurtion, whose brothers were centaurs, was expected to marry Deianira.
-  - Nominative, masculine, singular because Eurytion is the subject❌
-  - Qui❌
+  - Revision--Genetive, masculine, singular because Eurytion is the posession❌
+  - revision-- cuius❌
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
   - Nessus (Antecedent)
   - Nessus who Hercules killed, tried to rape Deianira.
-  - Nominative, masculine, singular because Nessus is the subject ❌
-  - Qui❌
+  - Revisions--Accusative , masculine, singular because Nessus is the direct object❌
+  - Revisions--quem❌
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.=
   - Nessus (Antecedent)
   - Nessus gave Deianira a vial of blood by which Hercules was poisoned.
@@ -85,21 +85,21 @@ English relative clauses
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   - Busiris (Antecedent)
   - Priest Busiris, who was killed by Hercules, regularly sacrificed foreigners.
-  - Dative because Hercules is the indirect object❌
-  - Cui❌
+  - Revision--Nominative because Busiris is the subject❌
+  - Revision-- qui❌
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   - Eagle (Antecedent)
   - Prometheus’ heart was devoured by an eagle, whom Hercules shot dead with his arrows.
-  - Eagle is the indirect object so this needs to be in the dative❌
-  - cui❌
+  - Revision--Eagle is the direct object so this needs to be in the accusative❌
+  - Revision--quem❌
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
   - Lycus (Antecedent)
-  - Lycus was killed by Hercules, who tried to kill Megara and her sons Therimachus and Ophites.❌
+  - ??Lycus was killed by Hercules, who tried to kill Megara and her sons Therimachus and Ophites.❌
   - Nominative, Lycus is the subject
   - Qui
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
   - Hercules (Antecedent)
-  - Hercules who refused to give Hercules an oracle stole a tripod from the temple of Delphi.❌
+  - ??Hercules who refused to give Hercules an oracle stole a tripod from the temple of Delphi.❌
   - Apollo refused to give Hercules an oracle.
   - Hercules is the indirect object 
   - Dative because of the indirect object
