@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Heracles travelled to the city of Oechalia in Aetolia, and asked the king, Eurytus, for permission to marry his daughter, Iole. When Eurytus refused, Heracles not only destroyed the city, but killed Iole’s parents before her very eyes. He then took Iole captive, and sent her to his home, to his wife Deianira (!)
 
