@@ -10,15 +10,15 @@ Instructions
 Your composition should use at least two participles and two relative clauses.
 Your composition should include at least one expression of purpose using ad + a noun or pronoun modified by a gerundive.
 1. Your first sentence should use a negative purpose clause to say that when Deianira, the daughter of Oeneus and the wife of Hercules saw that the beautiful young girl Iole had been brought (to her house), she began to devise a plot in order not to lose her husband (or “be deprived of” her husband).
-Cum Deianira, filiae Oeneus et uxoris Hercules uidit Iolen adductam esse, illa cogitabant ut per insidias, ne privaretur coniugio.
+- Cum Deianira, filiae Oeneus et uxoris Hercules uidit Iolen adductam esse, illa cogitabant ut per insidias, ne privaretur coniugio.
 2. Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
-Deianira misit famuli eius ferre Herculem circumindutus vestimento tincto sanguine centauri in hunc Nessi opprimet, qui putavit quod in amore potio.
+- Deianira misit famuli eius ferre Herculem circumindutus vestimento tincto sanguine centauri in hunc Nessi opprimet, qui putavit quod in amore potio.
 3. Your third sentence should say that Hercules put the garment on and it immediately burst into flames.
-Hercules interfecit et confestim vestimentum excanduit.
+- Hercules interfecit et confestim vestimentum excanduit.
 4. Your fourth sentence should express that Hercules threw the slave, whom Deianira had sent to bring the garment back, into the sea.
-Herculis misit servos quos miserat Deianiram vestimenta portare in mare.
+- Herculis misit servos quos miserat Deianiram vestimenta portare in mare.
 5. Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
-Hercules dicitur, ad immortalitatis resurrexit, sed inpia se occidit ob hoc factum.
+- Hercules dicitur, ad immortalitatis resurrexit, sed inpia se occidit ob hoc factum.
 OUTLINE
 > When Deinira saw
 	That Iole had been brought
@@ -45,5 +45,7 @@ privo, privare, privavi, privatus “deprive someone (acc.) of something (abl.)�
 induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
+
+
 
 
