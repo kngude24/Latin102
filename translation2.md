@@ -11,44 +11,38 @@ non *poterat* transire,
 
 et centaurum Nessum, (Indirect statement because of the infinitive folllowed by an accusative)
 
- >qui filius Ixionis et Nubis erat, auxilium *rogavit*. (Relative Clause) ❌
+ >qui filius Ixionis et Nubis *erat*
+ auxilium *rogavit*. (Relative Clause)(Revised) ❌
  (auxilium is in the accusative and means to help)
  
- >Hic Deianiram sublatam in flumine ipso uiolare *uoluit*. (Indirect statement) (sublatam perfect participle-to lift) ❌
+ Hic Deianiram 
+ >sublatam 
+in flumine ipso uiolare *uoluit*. (Indirect statement) (sublatam perfect participle-to lift) ❌
 
  huc Hercules 
 
  >cum *interuenisset* 
 
- >et
-
- >Deianira cum fidem eius *implorasset*, (Cum clause--independent)
+ >et Deianira cum fidem eius *implorasset*, (Cum clause--independent)
 
  Nessum sagittis *confixit*. 
 
-ille
-
- > moriens 
+ille 
+> moriens,
 
  > cum *sciret*
 
- >> sagittas
+ >> sagittas 
+ >> Hydrae Lernaeae felle tinctas 
+ >> magnam vim habere,
 
- >>> Hydrae Lernaeae felle tinctas
+ sanguinem suum 
+ exceptum 
+ Deianirae *dedit* 
 
- >> magnam vim habere
-
- sanguinem suum
-
- >exceptum
-
-Deianirae dedit 
-
-et
-
- >id philtrum esse 
-
-dixit
+et 
+>id philtrum esse 
+*dixit*
 
 Poterat=to be able (Imperfect, Indicative, Active, 3rd, Singular)
 Rogavit=to ask (Perfect, Indicative, Active, 3rd, Singular)
@@ -62,18 +56,18 @@ B. Grammatical questions
 Cui is in the dative case because it is followed by the verb erat. Cui functions as the pronoun to whom.
 The antecedent of cui is Evenus
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
-Transire is in the present active infinitive, I placed it in the independent clause because it makes an indirect statement❌
+Transire is in the present active infinitive, Revision: poterat needs an infinitive because it is a complemntary verb.❌
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 Sublatam is a perfect, passive, feminine, accusative, singular)
 Fero, fere, tuli, latus
 Urn:cite2:hmt:ls.markdown:n42264
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
-Sagittis ablative plural, Hyginus uses this because it is apart of the ablative absolute.❌
+Sagittis ablative plural, Hyginus uses this because it is apart of the ablative absolute.❌Revision: Hyginus uses this to express the means of instrument.
 5. Identify the form of moriens.
-Moriens is a present active participle  ❌ **Plus gender, case, number**
+Moriens is a present active participle  ❌ **Plus gender, case, number**Revision: nominative, singular, masculine
 6. Identify felle. Why does Hyginus use this case?
-Felle is in the ablative because it is apart of the participle ❌
+Felle is in the ablative because it is apart of the participle ❌Revision: Hyginus uses this because it is to express the means of instrument. 
 7. Identify the form of tinctas.
 Tinctas is in the perfect, passive, participle, accusative, plural **gender?**
 8. Identify the form of exceptum.
