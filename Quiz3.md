@@ -1,38 +1,17 @@
 
 Noun-adjective pairs (in various cases):
-uno die- uno die
-un + o
-unus/a/um
-e pluribus unum
-pluris
-die ?
-di + e
-dies, diei (m)
-dies, diei (m) “day”
-
+uno die- uno die un + o unus/a/um e pluribus unum pluris die ? di + e dies, diei (m) dies, diei (m) “day” 
 Una, unis, unum, dius, dii m.
 totum stercus- totus, tota, totum, stercus, stercoris m.
-ceruum ferocem-cervus, cervi (m)feroc- +/ or +s
-ferocs
-ferox
+ceruum ferocem-cervus, cervi (m)feroc- +/ or +s ferocs ferox
 tantam vim-tantus, tanta, tantum, vis, vis f.
 sagittas suas- accusative plural, first declension feminine, sagitta sagitae f. Suius, sua, suum
-cornibus aureis-present, active, subjunctive, Cornu, cornus n.
-Aureus, aurea, aureum
-
-carne humana- Caro,carnis f.
-Humanus, humana, humanum
-
+cornibus aureis-present, active, subjunctive, Cornu, cornus n. Aureus, aurea, aureum 
+carne humana- Caro,carnis f. Humanus, humana, humanum 
 draconem immanem-draco, draconis m., immanis, immanior, immanissimus
-mala aurea- mala, malae (f)malum, -i (n) aureus, -a, -um
+mala aurea- mala, malae (f)malum, -i (n) aureus, -a, -um 
 
-
-,ferox, ferocis
-feroc-
-feroc + s
-ferox
-dracon-,  draconis
-draco, draconis
+,ferox, ferocis feroc- feroc + s ferox dracon-,  draconis draco, draconis
 
 Transierat-transeo, transire, transivi, transitus
 afflabat- afflo, afflare, afflavi, afflatus
@@ -54,8 +33,7 @@ Thraciae rex Thracius, Thracia, Thracium, rex, regis m.
 cum Abdero Abderus, Abderi (m)
 Eurystheo eurystheus, eurythei (m)regi rex, regis m.
 
-Leonem Nemeum leo, leonis m. Nemeus, Nemea, Nemeum
-
+Leonem Nemeum leo, leonis m. Nemeus, Nemea, Nemeum 
 Hydram Lernaeam hydra, hydrae f. 
 aprum Erymanthium aper, apri n. 
 aves Stymphalides aveo, avere, Stymphalis, Stymphalidis
@@ -63,26 +41,24 @@ Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative sin
 
 
 The Hydra killed passers by with a great blowing of his poisonous breath.
-- Hydram magno afflatu
+- magno afflatu
 The Hydra killed passers by with a greater blowing of his poisonous breath.
-- Hydram magnam afflatu
+- maiore afflatu
 The Hydra killed passers by with the greatest blowing of his poisonous breath.
-- Hydram 
+- maximo afflatu
 The victims died in great torment.
-- maximo  cruciatu
+- magno cruciatu
 The victims died in greater torment.
-- Hostiae apud maiores
+- maiore cruciatu 
 Cruciato mortuus est
 The victims died in the greatest torment.
-- Hostiae summa cruciato
-mortuus est
+- maximo cruciato
 Hercules cleaned a great part of the stables.
-- Hercules magnam partem
+- magnam partem
 Hercules cleaned a greater part of the stables.
-- Hercules maiorem partem
+- maiorem partem
 Hercules cleaned the greatest part of the stables.
-- Hercules maximam partem
-
+- maximam partem
 
 
 
