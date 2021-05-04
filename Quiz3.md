@@ -1,17 +1,41 @@
+**Full credit**
+
+
 
 Noun-adjective pairs (in various cases):
-uno die- uno die un + o unus/a/um e pluribus unum pluris die ? di + e dies, diei (m) dies, diei (m) “day” 
+uno die- uno die
+un + o
+unus/a/um
+e pluribus unum
+pluris
+die ?
+di + e
+dies, diei (m)
+dies, diei (m) “day”
+
 Una, unis, unum, dius, dii m.
 totum stercus- totus, tota, totum, stercus, stercoris m.
-ceruum ferocem-cervus, cervi (m)feroc- +/ or +s ferocs ferox
+ceruum ferocem-cervus, cervi (m)feroc- +/ or +s
+ferocs
+ferox
 tantam vim-tantus, tanta, tantum, vis, vis f.
 sagittas suas- accusative plural, first declension feminine, sagitta sagitae f. Suius, sua, suum
-cornibus aureis-present, active, subjunctive, Cornu, cornus n. Aureus, aurea, aureum 
-carne humana- Caro,carnis f. Humanus, humana, humanum 
-draconem immanem-draco, draconis m., immanis, immanior, immanissimus
-mala aurea- mala, malae (f)malum, -i (n) aureus, -a, -um 
+cornibus aureis-present, active, subjunctive, Cornu, cornus n.
+Aureus, aurea, aureum
 
-,ferox, ferocis feroc- feroc + s ferox dracon-,  draconis draco, draconis
+carne humana- Caro,carnis f.
+Humanus, humana, humanum
+
+draconem immanem-draco, draconis m., immanis, immanior, immanissimus
+mala aurea- mala, malae (f)malum, -i (n) aureus, -a, -um
+
+
+,ferox, ferocis
+feroc-
+feroc + s
+ferox
+dracon-,  draconis
+draco, draconis
 
 Transierat-transeo, transire, transivi, transitus
 afflabat- afflo, afflare, afflavi, afflatus
@@ -33,7 +57,8 @@ Thraciae rex Thracius, Thracia, Thracium, rex, regis m.
 cum Abdero Abderus, Abderi (m)
 Eurystheo eurystheus, eurythei (m)regi rex, regis m.
 
-Leonem Nemeum leo, leonis m. Nemeus, Nemea, Nemeum 
+Leonem Nemeum leo, leonis m. Nemeus, Nemea, Nemeum
+
 Hydram Lernaeam hydra, hydrae f. 
 aprum Erymanthium aper, apri n. 
 aves Stymphalides aveo, avere, Stymphalis, Stymphalidis
