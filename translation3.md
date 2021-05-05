@@ -36,25 +36,27 @@ Both accusative stercus bobile
 
 A. Grammatical analysis 
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
-7.
-haec tantam vim veneni *habuit* (perf,acti,indic) 
-> ut afflatu homines *necaret* (imp,subj,active)
-> si quis eam dormientem *transierat*
-uestigia eius *afflabat* (Imp,indic,active)
-et maiori cruciatu *moriebatur*(imp,indic, passive)
+7. Augeae regis stercus bobile uno die *purgauit*
+maiorem partem 
+> love adiutore
+> flumine ammisso 
+totum stercus *abluit*
+Translation: He cleaned the dung from stall of King Augeas in one day, the greater part while Juppiter was helping; because he let the river in, he washed all the dung.
 8.
-Mycenis
->vivum *adduxit*
->>taurum cum quo Pasiphae *concubuit*
-ex Creta insula
+taurum 
+>cum quo Pasiphae *concubuit*
+ex Creta insula Mycenis vivum *adduxit*
+Translation: He killed King Diomedes of Thrace and the four horses of him whom fed on human flesh with the servant Abderum; in addition the names of the horses were Podargus, Lampon, Xanthus, and Dinus.
 9. 
 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
-Both accusative stercus bobile
->cum Abdero famulo *interfecit*
->qui carne humana *vescebantur*
+Diomedem Thraciae regem et equos quattuor eius,
+> qui carne humana *vescebantur*,
+Cum abdero famulo *interfecit*;
+equorum autem nomina Lampon Anthus Dinus.
+Translation: He killed king dymedes of trace and the four horses of him 
 B. Grammatical questions 
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
-- This is an example of the absolute ablative
+- This is an example of the ablative absolute 
 What case is stercus, and why is it in that case?
 - Stercus is in the nominative singular because it is the subject
 Identify the form of the adjective maiorem (gender, case, number, degree).
@@ -62,7 +64,7 @@ Identify the form of the adjective maiorem (gender, case, number, degree).
 Explain the construction of the verbal unit flumine admisso.
 - This is an example of the absolute ablative
 What are the gender, number, case, and antecedent of qui?
-- Qui is in the masculine, nominative, singular
+- Qui is in the masculine, nominative, plural
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 - The latin verb nomina needs to be understood
 C. Literary commentary 
