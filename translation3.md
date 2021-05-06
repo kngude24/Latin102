@@ -1,4 +1,4 @@
-
+**Full credit**
 
 Translation 3: 
 Glossary and notes 
