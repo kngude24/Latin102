@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 A. Grammatical analysis 
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
@@ -33,8 +33,10 @@ ille
  > cum *sciret*
 
  >> sagittas 
+
  >> Hydrae Lernaeae felle tinctas 
- >> magnam vim habere,
+
+ > magnam vim habere,
 
  sanguinem suum 
  exceptum 
@@ -69,8 +71,8 @@ Moriens is a present active participle  ❌ **Plus gender, case, number**Revisio
 6. Identify felle. Why does Hyginus use this case?
 Felle is in the ablative because it is apart of the participle ❌Revision: Hyginus uses this because it is to express the means of instrument. 
 7. Identify the form of tinctas.
-Tinctas is in the perfect, passive, participle, accusative, plural **gender?**
+Tinctas is in the perfect, passive, participle, accusative, plural,  **gender?** feminine
 8. Identify the form of exceptum.
-Masculine, Accusative, singular **Voice, tense of the participle?**
+Masculine, Accusative, singular **Voice, tense of the participle?** perfect passive
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
  Moriens
