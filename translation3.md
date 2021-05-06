@@ -69,7 +69,7 @@ taurum
 
 >cum quo Pasiphae *concubuit*
 ex Creta insula Mycenis vivum *adduxit*
-
+He brought back the bull, with which  Pasiphae slept, alive from the island Crete to Mycenae.
 ❌ **This is a good translation of 9! But it seems 8 has fallen out.**  Translation: He killed King Diomedes of Thrace and the four horses of him whom fed on human flesh with the servant Abderum; in addition the names of the horses were Podargus, Lampon, Xanthus, and Dinus.
 
 9. 
@@ -90,18 +90,19 @@ B. Grammatical questions
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
 - This is an example of the ablative absolute 
 What case is stercus, and why is it in that case?
-- Stercus is in the nominative singular❌ because it is the subject
+- Stercus is in the accusative because it is the direct object.❌ because it is the subject
 Identify the form of the adjective maiorem (gender, case, number, degree).
-- Maiorem is in the accusative, masculine, singular ❓ **Degree? (positive, comparative, suplerative)**
+- Maiorem is in the accusative, feminine, singular an comparitive degree ❓ **Degree? (positive, comparative, suplerative)**
 Explain the construction of the verbal unit flumine admisso.
 - This is an example of the absolute ablative
 What are the gender, number, case, and antecedent of qui?
 - Qui is in the masculine, nominative, plural
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-- The latin verb nomina❓❌ needs to be understood
+- It is the form of the verb to be❓❌ 
 
 C. Literary commentary 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+
 Hyginus chooses to use the subjunctive after ut *ut afflatu homines necaret* because he is trying to express purpose through a purpose clause. He uses the absolute ablative here *love adiutore* and here *unit flumine admisso* because he is defining the circumstances or situation in which the action of the main verb occurs.
 
 
