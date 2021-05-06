@@ -13,7 +13,7 @@ Your composition should use at least two participles and two relative clauses.
 Your composition should include at least one expression of purpose using ad + a noun or pronoun modified by a gerundive.
 1. Your first sentence should use a negative purpose clause to say that when Deianira, the daughter of Oeneus and the wife of Hercules saw that the beautiful young girl Iole had been brought (to her house), she began to devise a plot in order not to lose her husband (or “be deprived of” her husband).
 
-- Cum Deianira, filia Oeneuis❌ et uxor Herculis❌ uidit Iolen adductam esse, illa cogitabat❌, ne coniugio privaretur.
+- Cum Deianira, filia Oenei❌ et uxor Herculis❌ uidit Iolen adductam esse, illa cogitabat❌, ne coniugio privaretur.
 
 
 2. Your second sentence should express that she sent her servant to bring to Hercules a garment dipped in the blood of the centaur Nessus, which she thought was a love potion.
